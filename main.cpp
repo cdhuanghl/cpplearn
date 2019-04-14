@@ -5,6 +5,7 @@
 int main() {
     basemonitor m(10,20);
     const int & p= ay[1];
-    std::cout<< m<<&TEST<<std::flush<<8; 
+    std::cout<< m<<&TEST<<std::flush<<8;
+    std::cout<< 4;
     return 0;
 }
